@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../common" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-cart/e3-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-content" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-manager/e3-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-order/e3-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-search/e3-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3-sso/e3-sso-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../manager" />
+    <file type="web" url="file://$PROJECT_DIR$/../manager-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../common/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../manager-web/pom.xml" />
+        <option value="F:/e3resource/01.参考资料/mybatis/pagehelper-fix/pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/../fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-content/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-search-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-sso-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3-order-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/comtest/pom.xml" />
+        <option value="$PROJECT_DIR$/contest/pom.xml" />
+        <option value="$PROJECT_DIR$/../manager/manager-web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd " location="D:/idea/dtd/dubbo.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop-4.2.xsd" location="D:/idea/dtd/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.2.xsd" location="D:/idea/dtd/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-4.2.xsd" location="D:/idea/dtd/spring-context-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>

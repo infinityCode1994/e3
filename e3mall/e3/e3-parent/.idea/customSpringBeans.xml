@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomBeanRegistry">
+    <option name="map">
+      <map>
+        <entry key="&lt;dubbo:registry xmlns:dubbo=&quot;http://code.alibabatech.com/schema/dubbo&quot; protocol=&quot;zookeeper&quot; address=&quot;192.168.25.160:2181&quot; /&gt;">
+          <value>
+            <list>
+              <CustomBeanInfo>
+                <option name="beanName" value="com.alibaba.dubbo.config.RegistryConfig" />
+                <option name="beanClassName" value="com.alibaba.dubbo.config.RegistryConfig" />
+              </CustomBeanInfo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
